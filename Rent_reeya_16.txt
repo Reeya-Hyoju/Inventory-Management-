@@ -1,0 +1,56 @@
+Name of the customer : reeya
+Phone number: 6565Date of rent : 2023-08-25 09:26:16
+Total price of  equipment: 104.0
+Rented  equipment: 
+':- '
+V:-  
+e:- S
+l:- a
+v:- a
+e:- t
+t:- h
+ :- i
+T:-  
+a:-  
+b:-  
+l:-  
+e:-  
+ :-  
+C:-  
+l:-  
+o:-  
+t:-  
+h:-  
+ :-  
+ :-  
+ :-  
+ :-  
+ :-  
+ :- '
+ :- ,
+ :-  
+ :- '
+ :-  
+ :- S
+ :- a
+ :- a
+ :- t
+ :- h
+ :- i
+ :-  
+ :-  
+ :-  
+':-  
+,:-  
+ :-  
+':-  
+V:-  
+e:-  
+l:-  
+v:-  
+e:-  
+t:-  
+ :-  
+T:-  
+a:-  
+b:- '
